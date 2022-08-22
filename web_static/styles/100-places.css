@@ -1,3 +1,7 @@
+* ul {
+    list-style-type: none;
+}
+
 /* for the section containing places */
 
 .places h1{

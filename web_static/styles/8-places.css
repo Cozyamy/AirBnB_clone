@@ -1,8 +1,14 @@
+* ul {
+    list-style-type: none;
+}
+
 /* for the section containing places */
+
+}
 
 .places h1{
     font-size:30px;
-    margin-bottom: 0;
+    
 }
 .main {
     display: flex;
